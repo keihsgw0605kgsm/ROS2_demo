@@ -1,0 +1,33 @@
+[0.497s] Invoking command in '/root/ros2_ws/src/py_robot_lab': PYTHONPATH=/root/ros2_ws/build/py_robot_lab/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros2_ws/install/py_robot_lab/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_robot_lab build --build-base /root/ros2_ws/build/py_robot_lab/build install --record /root/ros2_ws/build/py_robot_lab/install.log --single-version-externally-managed install_data
+[0.662s] running egg_info
+[0.663s] creating ../../build/py_robot_lab/py_robot_lab.egg-info
+[0.663s] writing ../../build/py_robot_lab/py_robot_lab.egg-info/PKG-INFO
+[0.664s] writing dependency_links to ../../build/py_robot_lab/py_robot_lab.egg-info/dependency_links.txt
+[0.664s] writing entry points to ../../build/py_robot_lab/py_robot_lab.egg-info/entry_points.txt
+[0.665s] writing requirements to ../../build/py_robot_lab/py_robot_lab.egg-info/requires.txt
+[0.665s] writing top-level names to ../../build/py_robot_lab/py_robot_lab.egg-info/top_level.txt
+[0.665s] writing manifest file '../../build/py_robot_lab/py_robot_lab.egg-info/SOURCES.txt'
+[0.667s] reading manifest file '../../build/py_robot_lab/py_robot_lab.egg-info/SOURCES.txt'
+[0.668s] writing manifest file '../../build/py_robot_lab/py_robot_lab.egg-info/SOURCES.txt'
+[0.669s] running build
+[0.669s] running build_py
+[0.669s] creating /root/ros2_ws/build/py_robot_lab/build
+[0.669s] creating /root/ros2_ws/build/py_robot_lab/build/lib
+[0.670s] creating /root/ros2_ws/build/py_robot_lab/build/lib/py_robot_lab
+[0.670s] copying py_robot_lab/__init__.py -> /root/ros2_ws/build/py_robot_lab/build/lib/py_robot_lab
+[0.671s] running install
+[0.671s] running install_lib
+[0.671s] creating /root/ros2_ws/install/py_robot_lab/lib/python3.10/site-packages/py_robot_lab
+[0.672s] copying /root/ros2_ws/build/py_robot_lab/build/lib/py_robot_lab/__init__.py -> /root/ros2_ws/install/py_robot_lab/lib/python3.10/site-packages/py_robot_lab
+[0.673s] byte-compiling /root/ros2_ws/install/py_robot_lab/lib/python3.10/site-packages/py_robot_lab/__init__.py to __init__.cpython-310.pyc
+[0.674s] running install_data
+[0.674s] creating /root/ros2_ws/install/py_robot_lab/share/ament_index
+[0.674s] creating /root/ros2_ws/install/py_robot_lab/share/ament_index/resource_index
+[0.675s] creating /root/ros2_ws/install/py_robot_lab/share/ament_index/resource_index/packages
+[0.675s] copying resource/py_robot_lab -> /root/ros2_ws/install/py_robot_lab/share/ament_index/resource_index/packages
+[0.675s] copying package.xml -> /root/ros2_ws/install/py_robot_lab/share/py_robot_lab
+[0.677s] running install_egg_info
+[0.677s] Copying ../../build/py_robot_lab/py_robot_lab.egg-info to /root/ros2_ws/install/py_robot_lab/lib/python3.10/site-packages/py_robot_lab-0.0.0-py3.10.egg-info
+[0.683s] running install_scripts
+[0.702s] writing list of installed files to '/root/ros2_ws/build/py_robot_lab/install.log'
+[0.717s] Invoked command in '/root/ros2_ws/src/py_robot_lab' returned '0': PYTHONPATH=/root/ros2_ws/build/py_robot_lab/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros2_ws/install/py_robot_lab/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_robot_lab build --build-base /root/ros2_ws/build/py_robot_lab/build install --record /root/ros2_ws/build/py_robot_lab/install.log --single-version-externally-managed install_data

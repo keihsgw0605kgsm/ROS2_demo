@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/py_robot_lab/py_robot_lab.egg-info
+writing ../../build/py_robot_lab/py_robot_lab.egg-info/PKG-INFO
+writing dependency_links to ../../build/py_robot_lab/py_robot_lab.egg-info/dependency_links.txt
+writing entry points to ../../build/py_robot_lab/py_robot_lab.egg-info/entry_points.txt
+writing requirements to ../../build/py_robot_lab/py_robot_lab.egg-info/requires.txt
+writing top-level names to ../../build/py_robot_lab/py_robot_lab.egg-info/top_level.txt
+writing manifest file '../../build/py_robot_lab/py_robot_lab.egg-info/SOURCES.txt'
+reading manifest file '../../build/py_robot_lab/py_robot_lab.egg-info/SOURCES.txt'
+writing manifest file '../../build/py_robot_lab/py_robot_lab.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /root/ros2_ws/build/py_robot_lab/build
+creating /root/ros2_ws/build/py_robot_lab/build/lib
+creating /root/ros2_ws/build/py_robot_lab/build/lib/py_robot_lab
+copying py_robot_lab/__init__.py -> /root/ros2_ws/build/py_robot_lab/build/lib/py_robot_lab
+running install
+running install_lib
+creating /root/ros2_ws/install/py_robot_lab/lib/python3.10/site-packages/py_robot_lab
+copying /root/ros2_ws/build/py_robot_lab/build/lib/py_robot_lab/__init__.py -> /root/ros2_ws/install/py_robot_lab/lib/python3.10/site-packages/py_robot_lab
+byte-compiling /root/ros2_ws/install/py_robot_lab/lib/python3.10/site-packages/py_robot_lab/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /root/ros2_ws/install/py_robot_lab/share/ament_index
+creating /root/ros2_ws/install/py_robot_lab/share/ament_index/resource_index
+creating /root/ros2_ws/install/py_robot_lab/share/ament_index/resource_index/packages
+copying resource/py_robot_lab -> /root/ros2_ws/install/py_robot_lab/share/ament_index/resource_index/packages
+copying package.xml -> /root/ros2_ws/install/py_robot_lab/share/py_robot_lab
+running install_egg_info
+Copying ../../build/py_robot_lab/py_robot_lab.egg-info to /root/ros2_ws/install/py_robot_lab/lib/python3.10/site-packages/py_robot_lab-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/root/ros2_ws/build/py_robot_lab/install.log'
