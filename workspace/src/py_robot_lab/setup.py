@@ -29,6 +29,9 @@ setup(
             'add_two_ints_client = py_robot_lab.add_two_ints_client:main',
             'turtle_circle = py_robot_lab.turtle_circle:main',
             'turtle_pose_sub = py_robot_lab.turtle_pose_sub:main',
+            'fibonacci_action_server = py_robot_lab.fibonacci_action_server:main',
+            'fibonacci_action_client = py_robot_lab.fibonacci_action_client:main',
+            'param_monitor = py_robot_lab.param_monitor:main',
         ],
     },
 )
