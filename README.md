@@ -261,5 +261,4 @@ docker compose exec ros2_dev bash -lc "source /opt/ros/humble/setup.bash && ros2
 
 ## License
 
-`py_robot_lab` の `package.xml` に合わせ、Apache License 2.0 を想定しています。  
-公開時はルートに `LICENSE` ファイルを追加してください。
+Apache License 2.0
